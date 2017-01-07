@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\git\ClassicNFC\app\libs\javaemvreader-0.3.0-SNAPSHOT-full.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4f0c9a50c984e7c462912b9c1932ae7502144efb">
+        <dex dex="C:\git\ClassicNFC\app\build\intermediates\pre-dexed\debug\javaemvreader-0.3.0-SNAPSHOT-full_8633eec85cdc76f2af6d6b5aab9c5e66dc240a14.jar" />
+    </item>
+
+</items>

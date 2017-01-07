@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Classic NFC</string>
+    <string name="title_activity_main">@string/app_name</string>
+    <style name="Theme.Custom" parent="android:style/Theme.Holo">
+        <item name="android:typeface">monospace</item>
+        <!-- <item name="android:textColor">#00ff00</item> -->
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>

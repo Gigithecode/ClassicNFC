@@ -30,3 +30,4 @@ The code was compiled and tested using the following:
       - Google doesn't share the credentials to access the SE
     - Credit card emulation should be possible with Android's Host Card
       Emulation (HCE) API introduced in Android 4.4
+# ClassicNFC
